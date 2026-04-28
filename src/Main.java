@@ -14,7 +14,7 @@ public class Main {
         System.out.println("m4");
     }
     public static void m5() {
-        System.out.println("m5");
+        System.out.println("m5 is printed");
     }
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
