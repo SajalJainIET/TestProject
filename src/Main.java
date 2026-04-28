@@ -13,6 +13,9 @@ public class Main {
     public static void m4() {
         System.out.println("m4");
     }
+    public static void m5() {
+        System.out.println("m5");
+    }
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
